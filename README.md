@@ -1,33 +1,47 @@
 # Arnald Souza
 
-## About Me
+## Cybersecurity | Red Team & Blue Team | Computer Engineering
 
-I am a Computer Engineering student at Centro Universitário Facens, located in Sorocaba, São Paulo, Brazil.  Passionate about technology and software development, I am constantly seeking to expand my knowledge and skills in the field of computer science.
+Computer Engineering student with professional direction toward Cybersecurity, focusing on Red Team and Blue Team environments.
 
-## GitHub Statistics
+Solid foundation in computer networks, Linux-based operating systems, and programming. Experience with technical troubleshooting, connectivity diagnostics, and basic network infrastructure support.
 
-<div align="center">
-  <a href="https://github.com/ArnaldSouza">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArnaldSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=15"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaldSouza&layout=compact&langs_count=8&theme=dark&border_radius=15"/>
-  </a>
-</div>
-
-## Contact
-
-Feel free to reach out to me through any of the following platforms: 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/arnald-souza/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5? style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto: arnald.souza472@gmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>  
-</div>
+Developing practical skills in vulnerability analysis, security monitoring, log investigation, and system hardening, aiming to build a career in Security Operations and SOC environments.
 
 ---
 
-<div align="center">
-  <i>Open to opportunities and professional connections. </i>
-</div>
+## Current Focus
+
+- Security event monitoring  
+- Linux hardening  
+- Network traffic analysis  
+- Vulnerability identification  
+- Log analysis and incident response  
+- SOC fundamentals  
+
+---
+
+## Technical Stack
+
+**Operating Systems:** Linux (Ubuntu, Kali), Windows  
+**Networking:** TCP/IP fundamentals, DNS, DHCP, Routing basics  
+**Security:** Vulnerability analysis, Log investigation, Hardening concepts  
+**Programming:** Python, Bash, C  
+**Tools:** Wireshark, Nmap, Git, VirtualBox  
+
+---
+
+## Professional Development
+
+Currently participating in a cybersecurity bootcamp focused on offensive and defensive practices, developing hands-on projects and security simulations.
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/arnald-souza/  
+- Email: arnald.souza472@gmail.com  
+
+---
+
+*Open to opportunities in Cybersecurity, SOC environments, and Security Operations.*
