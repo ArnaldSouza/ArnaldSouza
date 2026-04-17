@@ -1,8 +1,8 @@
 # Arnald Souza
 
 Computer Engineering student · Brazil
-Backend · Cybersecurity · Applied AI
 
+Backend · Cybersecurity · Applied AI
 ---
 
 **Currently focused on:**
