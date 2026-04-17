@@ -1,47 +1,33 @@
 # Arnald Souza
 
-## Cybersecurity | Red Team & Blue Team | Computer Engineering
-
-Computer Engineering student with professional direction toward Cybersecurity, focusing on Red Team and Blue Team environments.
-
-Solid foundation in computer networks, Linux-based operating systems, and programming. Experience with technical troubleshooting, connectivity diagnostics, and basic network infrastructure support.
-
-Developing practical skills in vulnerability analysis, security monitoring, log investigation, and system hardening, aiming to build a career in Security Operations and SOC environments.
+Computer Engineering student · Brazil
+Backend · Cybersecurity · Applied AI
 
 ---
 
-## Current Focus
-
-- Security event monitoring  
-- Linux hardening  
-- Network traffic analysis  
-- Vulnerability identification  
-- Log analysis and incident response  
-- SOC fundamentals  
+**Currently focused on:**
+- Backend development with security in mind
+- Red Team / Blue Team · SOC fundamentals
+- Applying LLMs and ML in practical projects
 
 ---
 
-## Technical Stack
+**Technical stack**
 
-**Operating Systems:** Linux (Ubuntu, Kali), Windows  
-**Networking:** TCP/IP fundamentals, DNS, DHCP, Routing basics  
-**Security:** Vulnerability analysis, Log investigation, Hardening concepts  
-**Programming:** Python, Bash, C  
-**Tools:** Wireshark, Nmap, Git, VirtualBox  
-
----
-
-## Professional Development
-
-Currently participating in a cybersecurity bootcamp focused on offensive and defensive practices, developing hands-on projects and security simulations.
+| Area | Tools |
+|---|---|
+| Languages | Python · JavaScript/TS · Java · Bash · C |
+| Infra | Docker · Linux (Kali, Ubuntu) · Git |
+| Security | Nmap · Wireshark · OWASP · Log analysis |
+| AI / ML | Hugging Face · LLM APIs · scikit-learn |
 
 ---
 
-## Contact
+**Background**
 
-- LinkedIn: https://www.linkedin.com/in/arnald-souza/  
-- Email: arnald.souza472@gmail.com  
+Engineering student building hands-on experience in cybersecurity (offensive + defensive) and backend systems.
+Currently focused on vulnerability analysis, incident response, and SOC practices.
 
 ---
 
-*Open to opportunities in Cybersecurity, SOC environments, and Security Operations.*
+📫 arnald.souza472@gmail.com · [LinkedIn](https://www.linkedin.com/in/arnald-souza/)
